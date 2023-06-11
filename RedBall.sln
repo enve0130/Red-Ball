@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBall", "RedBall\RedBall.csproj", "{A8035E14-EA93-4DDB-8453-F909371ACAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8035E14-EA93-4DDB-8453-F909371ACAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8035E14-EA93-4DDB-8453-F909371ACAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8035E14-EA93-4DDB-8453-F909371ACAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8035E14-EA93-4DDB-8453-F909371ACAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30088249-963F-4301-87E4-E21CE4CC641D}
+	EndGlobalSection
+EndGlobal
